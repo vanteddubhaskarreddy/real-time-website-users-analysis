@@ -1,0 +1,4 @@
+apache-airflow-providers-trino==5.7.0
+boto3
+python-dotenv
+requests
