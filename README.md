@@ -86,8 +86,6 @@ def get_location_udf(ip):
 
 ## Data Schema
 
-![Data Model](https://fakeimg.pl/800x200/232F3E/ffffff?text=Website+Analytics+Data+Model)
-
 ### Core Tables
 
 - **events_bronze**: Raw decoded event data
@@ -98,7 +96,7 @@ def get_location_udf(ip):
 
 ## Dashboard Insights
 
-![Dashboard Preview](https://fakeimg.pl/800x200/FF3621/ffffff?text=Real-Time+Website+Analytics+Dashboard)
+![Dashboard Preview]([https://fakeimg.pl/800x200/FF3621/ffffff?text=Real-Time+Website+Analytics+Dashboard](https://github.com/vanteddubhaskarreddy/real-time-website-users-analysis/blob/master/databricks/website-traffic-dashboard.pdf))
 
 The interactive Databricks dashboard provides:
 
