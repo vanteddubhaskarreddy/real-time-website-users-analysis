@@ -96,8 +96,6 @@ def get_location_udf(ip):
 
 ## Dashboard Insights
 
-![Dashboard Preview]([https://fakeimg.pl/800x200/FF3621/ffffff?text=Real-Time+Website+Analytics+Dashboard](https://github.com/vanteddubhaskarreddy/real-time-website-users-analysis/blob/master/databricks/website-traffic-dashboard.pdf))
-
 The interactive Databricks dashboard provides:
 
 - **Regional Engagement**: Heat maps showing user concentration by geography
