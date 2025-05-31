@@ -19,8 +19,6 @@ This project implements a complete real-time event processing pipeline that inge
 
 ## Architecture
 
-![Architecture Diagram](https://fakeimg.pl/800x200/E25A1C/ffffff?text=Real-Time+Analytics+Architecture)
-
 ### Data Flow
 1. **Ingestion**: Raw events from website user interactions are captured and sent to Confluent Kafka
 2. **Bronze Layer**: Events are consumed by PySpark streaming jobs and stored in binary-decoded format
